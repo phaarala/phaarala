@@ -29,7 +29,8 @@ I test web applications end to end: exploratory testing, test planning, test cas
 - Runs in Chromium, Firefox and WebKit on every push through GitHub Actions: 30 passed, 3 expected failures
 - Known bugs tracked as strict expected failures linked to Jira, so the build stays green and the bug stays visible
 
-**[CS50x Problem Sets](https://github.com/phaarala/cs50xproblemsets)** · Harvard's introduction to computer science · C, Python, SQL, JavaScript · *Marked private in accordance with CS50's academic honesty policy.
+**[CS50x Problem Sets](https://github.com/phaarala/cs50xproblemsets)** · Harvard's introduction to computer science · C, Python, SQL, JavaScript · 
+*Marked private in accordance with CS50's academic honesty policy.
 - Programs in C covering pointers, manual memory management, binary file I/O, image filters and a hash-table spell checker
 - Identified three unlabeled sorting programs as bubble, merge and selection sort by timing them on sorted, random and reversed inputs
 - Verified output against answer keys (all 28 spell-checker texts, all 20 DNA samples) and checked for memory leaks with Valgrind
