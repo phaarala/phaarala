@@ -1,7 +1,7 @@
 ## Paul Haarala
 QA Analyst · Denver, CO
 
-I test web applications end to end: exploratory testing, test planning, test case design, cross-browser and multi-account execution, and defect reporting with full traceability from test case to Jira ticket, plus SQL analysis of test results and automated API and UI tests that run in CI.
+I test web applications end to end: exploratory testing, test planning, test case design, cross-browser and multi-account execution, and defect reporting with full traceability from test case to Jira ticket, plus SQL analysis of test results and automated API and UI tests that run in CI. My programming foundation comes from Harvard's CS50x, where I've written programs in C, Python, SQL and JavaScript.
 
 ### Featured work
 
@@ -29,13 +29,23 @@ I test web applications end to end: exploratory testing, test planning, test cas
 - Runs in Chromium, Firefox and WebKit on every push through GitHub Actions: 30 passed, 3 expected failures
 - Known bugs tracked as strict expected failures linked to Jira, so the build stays green and the bug stays visible
 
+**[CS50x Problem Sets](https://github.com/phaarala/cs50xproblemsets)** · Harvard's introduction to computer science · C, Python, SQL, JavaScript
+- Programs in C covering pointers, manual memory management, binary file I/O, image filters and a hash-table spell checker
+- Identified three unlabeled sorting programs as bubble, merge and selection sort by timing them on sorted, random and reversed inputs
+- Verified output against answer keys (all 28 spell-checker texts, all 20 DNA samples) and checked for memory leaks with Valgrind
+- Solved a mystery in a 10-table SQLite database by intersecting nested subqueries, with every query logged
+
 ### Skills
 
-Test planning · Test case design · Exploratory testing · Equivalence partitioning · Boundary value analysis · Cross-browser testing · Defect reporting and triage · Requirements traceability · SQL · API testing · UI test automation · Page Object Model
+**Testing:** Test planning · Test case design · Exploratory testing · Equivalence partitioning · Boundary value analysis · Cross-browser testing · Defect reporting and triage · Requirements traceability · API testing · UI test automation · Page Object Model
+
+**Programming:** SQL · Algorithm analysis (Big O) · Data structures (linked lists, hash tables, trees) · Recursion · Memory management and debugging · DOM scripting
 
 ### Tools
 
-Playwright · Python · pytest · Postman · Newman · GitHub Actions · Jira · SQLite · DB Browser for SQLite · Chrome DevTools · Google Sheets · GitHub
+**Languages:** Python · SQL · C · JavaScript · HTML · CSS
+
+**Testing and development:** Playwright · pytest · Postman · Newman · GitHub Actions · Jira · SQLite · DB Browser for SQLite · Valgrind · clang · Make · Chrome DevTools · Google Sheets · GitHub
 
 ### Certification
 
