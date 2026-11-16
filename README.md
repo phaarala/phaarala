@@ -34,18 +34,19 @@ I test web applications end to end: exploratory testing, test planning, test cas
 - Identified three unlabeled sorting programs as bubble, merge and selection sort by timing them on sorted, random and reversed inputs
 - Verified output against answer keys (all 28 spell-checker texts, all 20 DNA samples) and checked for memory leaks with Valgrind
 - Solved a mystery in a 10-table SQLite database by intersecting nested subqueries, with every query logged
+- Built a four-page personal website with Bootstrap: responsive navbar and project cards, a dark mode that persists across pages via `localStorage`, and a contact form handled in JavaScript
 
 ### Skills
 
 **Testing:** Test planning · Test case design · Exploratory testing · Equivalence partitioning · Boundary value analysis · Cross-browser testing · Defect reporting and triage · Requirements traceability · API testing · UI test automation · Page Object Model
 
-**Programming:** SQL · Algorithm analysis (Big O) · Data structures (linked lists, hash tables, trees) · Recursion · Memory management and debugging · DOM scripting
+**Programming:** SQL · Algorithm analysis (Big O) · Data structures (linked lists, hash tables, trees) · Recursion · Memory management and debugging · DOM scripting · Responsive web design
 
 ### Tools
 
 **Languages:** Python · SQL · C · JavaScript · HTML · CSS
 
-**Testing and development:** Playwright · pytest · Postman · Newman · GitHub Actions · Jira · SQLite · DB Browser for SQLite · Valgrind · clang · Make · Chrome DevTools · Google Sheets · GitHub
+**Testing and development:** Bootstrap · Playwright · pytest · Postman · Newman · GitHub Actions · Jira · SQLite · DB Browser for SQLite · Valgrind · clang · Make · Chrome DevTools · Google Sheets · GitHub
 
 ### Certification
 
